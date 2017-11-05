@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508575091 source:e:\c++ game development\9_tictactoeclass\main.cpp
+	<iostream>
+	"MainGame.h"
+
+1508575126 e:\c++ game development\9_tictactoeclass\include\maingame.h
+	<string>
+
+1508576386 source:e:\c++ game development\9_tictactoeclass\src\maingame.cpp
+	"MainGame.h"
+	<iostream>
+
